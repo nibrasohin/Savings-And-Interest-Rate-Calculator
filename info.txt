@@ -1,0 +1,11 @@
+User: SampleFile
+
+Account_NO: 1
+Account_Name: 3_Month_Interval-5_Years
+Starting_Date: 10-10-2010
+End_Date: 10-10-2020
+Availed: 10-10-2015
+Interest_Rate: 10
+Amount: 1000000
+Interest_Added: 0
+end
